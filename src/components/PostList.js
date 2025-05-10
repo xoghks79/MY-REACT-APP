@@ -2,8 +2,8 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const posts = [
-  { id: 1, title: 'React 시작하기', excerpt: 'React의 기본 개념을 소개합니다.' },
-  { id: 2, title: 'useState란?', excerpt: 'useState 훅을 사용하는 방법을 배워봅니다.' },
+  { id: 1, title: 'React 시작하기', excerpt: 'React의 기본 개념을 소개합니다. 111' },
+  { id: 2, title: 'useState란?', excerpt: 'useState 훅을 사용하는 방법을 배워봅니다. 111' },
 ];
 
 const PostList = () => (
